@@ -2,7 +2,7 @@
 
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628983230728.png" alt="myOcto" width="350px" height="350px" align="right"/> 
 
-- 🔭 I’m currently studying on Trybe
+- 🔭 I’m currently studying on [Trybe](https://www.betrybe.com/)
 - 🌱 I’m currently learning 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
