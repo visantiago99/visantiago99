@@ -1,5 +1,7 @@
 # Hello there! Im Victor 👋
 
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628983230728.png" alt="myOcto" width="350px" height="350px" align="right"/> 
+
 - 🔭 I’m currently studying on Trybe
 - 🌱 I’m currently learning 
 
