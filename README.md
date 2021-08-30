@@ -9,6 +9,7 @@
 - 📫 How to reach me: 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santiago-082542144/)
+
 My portfolio
 https://visantiago99-portfolio.netlify.app/
 
