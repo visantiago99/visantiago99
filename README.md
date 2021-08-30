@@ -10,8 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santiago-082542144/)
 
-My portfolio
-https://visantiago99-portfolio.netlify.app/
 
 ## Languages 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,3 +38,6 @@ https://visantiago99-portfolio.netlify.app/
 
 ## Others
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+You can check my portfolio here:
+https://visantiago99-portfolio.netlify.app/
