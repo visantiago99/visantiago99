@@ -41,4 +41,4 @@
 
 You can check my portfolio here
 
-https://visantiago99-portfolio.netlify.app/
+https://victor-santiago-portfolio.netlify.app/
