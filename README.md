@@ -47,7 +47,3 @@
 
 ## Others
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-You can check my portfolio here
-
-https://victor-santiago-portfolio.netlify.app/
